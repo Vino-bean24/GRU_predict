@@ -83,9 +83,3 @@ This project was developed as a hands-on demo for learning deep learning and seq
 - End-to-end workflow: data processing, model building, training, evaluation, and inference
 - Clean, well-commented code suitable for beginners
 - Practical application in computational biology
-
-## License
-This project is open source and available under the MIT License.
-
-## Contact
-For questions or collaboration, please contact: [Your Name] ([your.email@example.com])
